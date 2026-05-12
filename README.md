@@ -35,7 +35,11 @@ Overview of important files/directories:
 1. Construct resident-resident correlated graphs using their shared covariance in housing purchases (```zu_mai/adj.py``` or ```mai_huan/adj.py```)
 2. Run our ccGNNs method (```zu_mai/main.py``` or ```mai_huan/main.py```)
 
-## citation
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
 @inproceedings{ijcai2024p810,
   title     = {Predicting Housing Transaction with Common Covariance GNNs},
   author    = {Li, Jinjin and Liu, Bin and Liu, Chengyan and Zhang, Hongli},
